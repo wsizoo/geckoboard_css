@@ -1,0 +1,141 @@
+/*Backlog Google Sheets % */
+/* First widget is for the go-live page, second for onboarding queue */
+#widget-16180058 .number-widget.v2 .single-number:after,
+#widget-16180062 .number-widget.v2 .single-number:after
+ {
+	content: '%';
+}
+/* Meter */
+/*.geckometer .value {
+	fill: #00ADDB;
+}*/
+.geckometer .goal-rect {
+    fill: #FF5A00;
+}
+/* Widget Header */
+.widget .widget-inner > header {
+	background: #4D5154;
+}
+/* Progress Bar */
+.number-widget.v2 .goal-progress {
+	color: #00ADDB;
+}
+.number-widget.v2 .goal.reached .goal-progress {
+	color: #88C335;
+}
+/* Goal Numbers */
+.number-widget.v2 .single-number {
+	font-size: 71px;
+}
+/* Ashley Customization */
+/*#widget-16119141 > div > div > header {
+	background: #FF1D8E;
+}
+#widget-16119141 > div > div > div > div > div.single-number {
+	color: #FF1D8E;
+}
+#widget-16119141 > div > div > header > h1 {
+	color:#ffffff;
+}*/
+
+
+
+/* ---------- INFRASTRUCTURE ----------- */
+/* UP Color for Pingdom */
+.positive {
+	color: #00ADDB;
+}
+
+/* Current number of live sites */
+.t-size-x48 {
+	color: #00ADDB;
+}
+
+/* Widget title */
+.widget .widget-inner > header h1 {
+	color: #C1C1C1;
+    font-size: 23px;
+}
+
+/*Backlog Google Sheets % */
+/*.number-widget.v2 .single-number:after {
+	content: '%';
+}*/
+.salesforce {
+	font-size: 77px;
+}
+#widget-16062333 > div > section > div > div {
+	font-size: 116px;
+	text-align: center;
+}
+
+/* WP Sites */
+#widget-16180237 .number-widget.v2 .goal-progress,
+#widget-16180774 .number-widget.v2 .goal-progress,
+#widget-16180775 .number-widget.v2 .goal-progress {
+	color: #88C335;
+}
+#widget-16180237 .number-widget.v2 .goal-progress::after,
+#widget-16180774 .number-widget.v2 .goal-progress::after,
+#widget-16180775 .number-widget.v2 .goal-progress::after {
+	color: #88C335;
+	background-color: #88C335;
+}
+#widget-16180237 .number-widget.v2 .goal.reached .goal-progress,
+#widget-16180774 .number-widget.v2 .goal.reached .goal-progress,
+#widget-16180775 .number-widget.v2 .goal.reached .goal-progress {
+	color: #FFC400;
+}
+#widget-16180237 .number-widget.v2 .goal.reached .goal-threshold,
+#widget-16180774 .number-widget.v2 .goal.reached .goal-threshold,
+#widget-16180775 .number-widget.v2 .goal.reached .goal-threshold {
+	background-color: #FFC400;
+}
+#widget-16180237 .number-widget.v2 .goal.reached .goal-progress::after,
+#widget-16180774 .number-widget.v2 .goal.reached .goal-progress::after,
+#widget-16180775 .number-widget.v2 .goal.reached .goal-progress::after {
+	color: #FFC400;
+	background-color: #FFC400;
+}
+
+/* ---------- ONBOARDING QUEUE ---------- */
+#widget-16139220 > div > section > div > div {
+	font-size:71px;
+}
+#widget-16306619 .barchart .bar {
+	width: 67px;
+	x: -22px;
+}
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(1) > rect {
+	fill: #F44336 !important;
+}
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(2) > rect {
+	fill: #F57C00 !important;
+}
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(3) > rect,
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(4) > rect {
+	fill: #FFC107 !important;
+}
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(5) > rect ,
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(6) > rect ,
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(7) > rect ,
+#widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(8) > rect {
+	fill: #88C335 !important;
+}
+/* ---------- KUMA CITIZEN ---------- */
+#widget-16282283 .single-number {
+  background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+/* ---------- MAINT QUEUE ---------- */
+#widget-16344087 > div > section > div > div {
+	font-size:71px;
+}
+#widget-16344087 .barchart .bar {
+	width: 67px;
+	x: -22px;
+}
+#widget-16344087 > div > div > div > div > svg > g.items > g > rect {
+	fill: #64b5f6 !important;
+}
