@@ -139,3 +139,20 @@
 #widget-16344087 > div > div > div > div > svg > g.items > g > rect {
 	fill: #64b5f6 !important;
 }
+/* ---------- QA REP LIST ---------- */
+#widget-16330690 .leaderboard .leaderboard-label, #widget-16330690 .leaderboard .leaderboard-value {
+	font-size: 25px;
+	line-height: 33px;
+}
+#widget-16346738 .geckometer .gauge-arc {
+    stroke: #8bc34a;
+}
+#widget-16346738 .geckometer .goal-reached .goal-path {
+    stroke: #f4511e;
+}
+#widget-16346738 .geckometer .goal-rect {
+    fill: #8bc34a;
+}
+#widget-16346738 .geckometer .goal-reached .goal-rect {
+	fill: #f4511e !important;
+}
