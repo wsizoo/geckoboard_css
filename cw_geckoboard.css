@@ -123,11 +123,16 @@
 	fill: #88C335 !important;
 }
 /* ---------- KUMA CITIZEN ---------- */
+/* Commented out 2/10/16 - old news by now
+
 #widget-16282283 .single-number {
   background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
   background-repeat: no-repeat;
   background-position-x: right;
 }
+*/
+
+
 /* ---------- MAINT QUEUE ---------- */
 #widget-16344087 > div > section > div > div {
 	font-size:71px;
