@@ -132,6 +132,74 @@
 }
 */
 
+/* ---------- REP BOXES ---------- */
+/* Set up templates for each rep box, to make it easy to add badges or decorations */
+
+/* Ashley */
+#widget-16282271 .single-number {
+
+}
+
+/* Conner */
+#widget-16282274 .single-number {
+
+}
+
+/* David */
+#widget-16282275 .single-number {
+
+}
+
+/* Elena */
+#widget-16282276 .single-number {
+
+}
+
+/* Greg */
+#widget-16282280 .single-number {
+
+}
+
+/* Lizzie */
+#widget-16282277 .single-number {
+
+}
+
+/* Madia */
+#widget-16282278 .single-number {
+
+}
+
+/* Morgan */
+#widget-16282279 .single-number {
+
+}
+
+/* Phil */
+#widget-16282281 .single-number {
+
+}
+
+/* Rachel */
+#widget-16282282 .single-number {
+
+}
+
+/* Kuma */
+#widget-16282283 .single-number {
+  /*
+  background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
+  background-repeat: no-repeat;
+  background-position-x: right;
+  */
+}
+
+/* Vanessa */
+#widget-16282284 .single-number {
+
+} 
+
+
 
 /* ---------- MAINT QUEUE ---------- */
 #widget-16344087 > div > section > div > div {
