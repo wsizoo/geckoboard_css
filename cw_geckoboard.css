@@ -122,15 +122,7 @@
 #widget-16306619 > div > div > div > div > svg > g.items > g:nth-child(8) > rect {
 	fill: #88C335 !important;
 }
-/* ---------- KUMA CITIZEN ---------- */
-/* Commented out 2/10/16 - old news by now
 
-#widget-16282283 .single-number {
-  background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
-  background-repeat: no-repeat;
-  background-position-x: right;
-}
-*/
 
 /* ---------- REP BOXES ---------- */
 /* Set up templates for each rep box, to make it easy to add badges or decorations */
@@ -187,7 +179,7 @@
 
 /* Kuma */
 #widget-16282283 .single-number {
-  /*
+  /* Commented out 2/10/16 - old news by now
   background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
   background-repeat: no-repeat;
   background-position-x: right;
