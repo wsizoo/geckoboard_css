@@ -127,6 +127,15 @@
 /* ---------- REP BOXES ---------- */
 /* Set up templates for each rep box, to make it easy to add badges or decorations */
 
+/* Birthday Cake!! 
+-------------------
+	background-image: url('http://1.bp.blogspot.com/_OR4IsZmAfIA/TS32vunD4QI/AAAAAAAAABA/VVyASiQ_0zQ/s1600/cake.gif');
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-size: 55px;
+*/
+
+
 /* Ashley */
 #widget-16282271 .single-number {
 
@@ -134,10 +143,7 @@
 
 /* Conner */
 #widget-16282274 .single-number {
-	background-image: url('http://1.bp.blogspot.com/_OR4IsZmAfIA/TS32vunD4QI/AAAAAAAAABA/VVyASiQ_0zQ/s1600/cake.gif');
-	background-repeat: no-repeat;
-	background-position-x: right;
-	background-size: 55px;
+	
 }
 
 /* David */
@@ -165,7 +171,7 @@
 	background-image: url('http://www.foo.is/albums/Allskonar/1up.gif');
 	background-repeat: no-repeat;
 	background-position-x: right;
-	background-size: 55px;
+	background-size: 50px;
 }
 
 /* Morgan */
@@ -185,11 +191,9 @@
 
 /* Kuma */
 #widget-16282283 .single-number {
-  /* Commented out 2/10/16 - old news by now
   background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
   background-repeat: no-repeat;
   background-position-x: right;
-  */
 }
 
 /* Vanessa */
