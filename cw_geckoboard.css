@@ -135,6 +135,21 @@
 	background-size: 55px;
 */
 
+/* 1up Mushroom!!
+-------------------
+	background-image: url('http://www.foo.is/albums/Allskonar/1up.gif');
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-size: 50px;
+*/
+
+/* American Flag!!
+-------------------
+  background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
+  background-repeat: no-repeat;
+  background-position-x: right;
+*/
+
 
 /* Ashley */
 #widget-16282271 .single-number {
@@ -168,10 +183,7 @@
 
 /* Madia */
 #widget-16282278 .single-number {
-	background-image: url('http://www.foo.is/albums/Allskonar/1up.gif');
-	background-repeat: no-repeat;
-	background-position-x: right;
-	background-size: 50px;
+	
 }
 
 /* Morgan */
@@ -191,9 +203,7 @@
 
 /* Kuma */
 #widget-16282283 .single-number {
-  background-image: url('http://www.netanimations.net/Animated-fireworks-behind-flag.gif');
-  background-repeat: no-repeat;
-  background-position-x: right;
+
 }
 
 /* Vanessa */
