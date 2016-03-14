@@ -224,11 +224,16 @@
 #widget-16344087 > div > div > div > div > svg > g.items > g > rect {
 	fill: #64b5f6 !important;
 }
-/* ---------- QA REP LIST ---------- */
-#widget-16330690 .leaderboard .leaderboard-label, #widget-16330690 .leaderboard .leaderboard-value {
+
+/* ---------- QA DASHBOARD ---------- */
+
+/* Specialist List  */
+#widget-16416583 .leaderboard .leaderboard-label, #widget-16416583 .leaderboard .leaderboard-value {
 	font-size: 25px;
 	line-height: 33px;
 }
+
+/* Geckometer */
 #widget-16346738 .geckometer .gauge-arc {
     stroke: #8bc34a;
 }
